@@ -37,7 +37,12 @@ class Lyrics extends Component { // eslint-disable-line react/prefer-stateless-f
     } else {
       return (
         <React.Fragment>
-          <Link to="/" className="btn btn-dark btn-sm mb-4"></Link>
+          <Link to="/" className="btn btn-dark btn-sm mb-4">
+            Go Back
+          </Link>
+          <div className="card-header">
+            {track.track_name} by {' '}<span className="text-secondary">{track.artist_name}</span>
+          </div>
         </React.Fragment>
       )
     };
