@@ -2,8 +2,10 @@
   "name": "lyricfinder_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ascalmon.github.io/LyricSearch",
   "dependencies": {
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "moment": "^2.24.0",
     "node": "^11.10.0",
     "prop-types": "^15.7.2",
@@ -14,6 +16,7 @@
     "react-scripts": "2.1.5"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
