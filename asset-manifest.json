@@ -1,13 +1,13 @@
 {
   "main.css": "/LyricSearch/static/css/main.d638cc0e.chunk.css",
-  "main.js": "/LyricSearch/static/js/main.79c346c0.chunk.js",
-  "main.js.map": "/LyricSearch/static/js/main.79c346c0.chunk.js.map",
+  "main.js": "/LyricSearch/static/js/main.e321f769.chunk.js",
+  "main.js.map": "/LyricSearch/static/js/main.e321f769.chunk.js.map",
   "runtime~main.js": "/LyricSearch/static/js/runtime~main.75db6d81.js",
   "runtime~main.js.map": "/LyricSearch/static/js/runtime~main.75db6d81.js.map",
-  "static/js/2.09573302.chunk.js": "/LyricSearch/static/js/2.09573302.chunk.js",
-  "static/js/2.09573302.chunk.js.map": "/LyricSearch/static/js/2.09573302.chunk.js.map",
+  "static/js/2.1a3de521.chunk.js": "/LyricSearch/static/js/2.1a3de521.chunk.js",
+  "static/js/2.1a3de521.chunk.js.map": "/LyricSearch/static/js/2.1a3de521.chunk.js.map",
   "index.html": "/LyricSearch/index.html",
-  "precache-manifest.4ff80d1dca67e9d68724d3bdc82549e7.js": "/LyricSearch/precache-manifest.4ff80d1dca67e9d68724d3bdc82549e7.js",
+  "precache-manifest.d724999b77634c315719f42ba1a55eaf.js": "/LyricSearch/precache-manifest.d724999b77634c315719f42ba1a55eaf.js",
   "service-worker.js": "/LyricSearch/service-worker.js",
   "static/css/main.d638cc0e.chunk.css.map": "/LyricSearch/static/css/main.d638cc0e.chunk.css.map",
   "static/media/spinner.gif": "/LyricSearch/static/media/spinner.f0d26039.gif"
